@@ -1,2 +1,17 @@
-# AI-From-First-Principles
-From zero to AI Engineer. A complete open-source roadmap to understanding and building modern AI systems from first principles.
+# AI From First Principles
+
+Introduction
+
+Learning Roadmap
+
+Repository Structure
+
+How to Use This Repository
+
+Learning Philosophy
+
+Progress Tracker
+
+References
+
+License
